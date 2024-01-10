@@ -1,0 +1,21 @@
+How to run  Online Library Management System (OLMS).
+
+//Database Configuration.(MYSQL)
+
+Create Database library
+Import database library.sql
+
+****For User(User can make a registration and given credentials that allow to login)
+
+****For Admin
+
+“http://localhost/library/admin”
+
+Login Details for admin : 
+Username: david61977000
+Password:tiescompany
+
+GITHUB INSTRUCTIONS....
+
+my repository name is OLMS
+
